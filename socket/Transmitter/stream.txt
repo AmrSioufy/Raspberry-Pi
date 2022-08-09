@@ -1,0 +1,3157 @@
+Distance: 67.09 cm
+Distance: 67.51 cm
+Distance: 67.08 cm
+Distance: 67.51 cm
+Distance: 67.51 cm
+Distance: 67.53 cm
+Distance: 67.93 cm
+Distance: 67.93 cm
+Distance: 67.52 cm
+Distance: 67.95 cm
+Distance: 67.94 cm
+Distance: 67.93 cm
+Distance: 67.92 cm
+Distance: 67.48 cm
+Distance: 67.42 cm
+Distance: 67.41 cm
+Distance: 67.41 cm
+Distance: 67.82 cm
+Distance: 68.25 cm
+Distance: 67.84 cm
+Distance: 66.67 cm
+Distance: 67.36 cm
+Distance: 67.81 cm
+Distance: 68.17 cm
+Distance: 67.73 cm
+Distance: 67.76 cm
+Distance: 68.16 cm
+Distance: 70.05 cm
+Distance: 70.05 cm
+Distance: 69.64 cm
+Distance: 70.04 cm
+Distance: 69.62 cm
+Distance: 70.05 cm
+Distance: 69.62 cm
+Distance: 69.63 cm
+Distance: 69.63 cm
+Distance: 69.60 cm
+Distance: 69.60 cm
+Distance: 70.02 cm
+Distance: 70.01 cm
+Distance: 69.59 cm
+Distance: 70.01 cm
+Distance: 69.62 cm
+Distance: 70.03 cm
+Distance: 69.61 cm
+Distance: 70.04 cm
+Distance: 70.03 cm
+Distance: 69.60 cm
+Distance: 69.60 cm
+Distance: 70.04 cm
+Distance: 70.02 cm
+Distance: 70.04 cm
+Distance: 70.05 cm
+Distance: 70.03 cm
+Distance: 69.62 cm
+Distance: 70.02 cm
+Distance: 69.64 cm
+Distance: 69.19 cm
+Distance: 69.59 cm
+Distance: 70.03 cm
+Distance: 70.04 cm
+Distance: 70.02 cm
+Distance: 69.60 cm
+Distance: 69.61 cm
+Distance: 69.59 cm
+Distance: 69.61 cm
+Distance: 69.62 cm
+Distance: 70.62 cm
+Distance: 69.45 cm
+Distance: 70.20 cm
+Distance: 69.78 cm
+Distance: 70.21 cm
+Distance: 70.19 cm
+Distance: 69.69 cm
+Distance: 70.55 cm
+Distance: 70.09 cm
+Distance: 70.54 cm
+Distance: 69.69 cm
+Distance: 70.11 cm
+Distance: 70.52 cm
+Distance: 69.68 cm
+Distance: 69.69 cm
+Distance: 70.53 cm
+Distance: 69.66 cm
+Distance: 70.10 cm
+Distance: 69.68 cm
+Distance: 69.67 cm
+Distance: 69.67 cm
+Distance: 69.68 cm
+Distance: 70.12 cm
+Distance: 69.68 cm
+Distance: 69.71 cm
+Distance: 69.69 cm
+Distance: 70.12 cm
+Distance: 70.11 cm
+Distance: 70.08 cm
+Distance: 70.11 cm
+Distance: 69.66 cm
+Distance: 70.45 cm
+Distance: 70.02 cm
+Distance: 70.01 cm
+Distance: 70.03 cm
+Distance: 69.25 cm
+Distance: 283.51 cm
+Distance: 283.92 cm
+Distance: 283.07 cm
+Distance: 280.96 cm
+Distance: 281.35 cm
+Distance: 1001.10 cm
+Distance: 361.95 cm
+Distance: 284.03 cm
+Distance: 130.55 cm
+Distance: 284.90 cm
+Distance: 284.37 cm
+Distance: 285.88 cm
+Distance: 13.75 cm
+Distance: 5.41 cm
+Distance: 292.01 cm
+Distance: 1000.96 cm
+Distance: 1001.03 cm
+Distance: 1001.04 cm
+Distance: 6.01 cm
+Distance: 5.50 cm
+Distance: 5.41 cm
+Distance: 8.37 cm
+Distance: 1000.97 cm
+Distance: 1001.02 cm
+Distance: 1001.06 cm
+Distance: 238.99 cm
+Distance: 7.78 cm
+Distance: 1000.95 cm
+Distance: 5.34 cm
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 3.69 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.08 m
+Speed: 45Km/h
+Distance: 0.10 m
+Speed: 45Km/h
+Distance: 992.09 cm
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.36 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.65 m
+Speed: 45Km/h
+Distance: 0.65 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.66 m
+Speed: 45Km/h
+Distance: 0.65 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.65 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.63 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.64 m
+Speed: 45Km/h
+Distance: 0.65 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.38 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 2.05 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.51 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.52 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.49 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.52 m
+Speed: 45Km/h
+Distance: 0.51 m
+Speed: 45Km/h
+Distance: 0.50 m
+Speed: 45Km/h
+Distance: 0.52 m
+Speed: 45Km/h
+Distance: 0.51 m
+Speed: 45Km/h
+Distance: 0.52 m
+Speed: 45Km/h
+Distance: 0.52 m
+Speed: 45Km/h
+Distance: 0.53 m
+Speed: 45Km/h
+Distance: 0.52 m
+Speed: 45Km/h
+Distance: 0.51 m
+Speed: 45Km/h
+Distance: 2.03 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.23 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.31 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 0.18 m
+Speed: 45Km/h
+Distance: 0.43 m
+Speed: 45Km/h
+Distance: 0.34 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.05 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 2.04 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.19 m
+Speed: 45Km/h
+Distance: 0.19 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 0.21 m
+Speed: 45Km/h
+Distance: 0.18 m
+Speed: 45Km/h
+Distance: 0.31 m
+Speed: 45Km/h
+Distance: 0.31 m
+Speed: 45Km/h
+Distance: 2.04 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.17 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.19 m
+Speed: 45Km/h
+Distance: 0.17 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.18 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.18 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 2.03 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 2.03 m
+Speed: 45Km/h
+Distance: 0.30 m
+Speed: 45Km/h
+Distance: 0.19 m
+Speed: 45Km/h
+Distance: 0.18 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.19 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.07 m
+Speed: 45Km/h
+Distance: 0.24 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.21 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.20 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.14 m
+Speed: 45Km/h
+Distance: 0.12 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 2.39 m
+Speed: 45Km/h
+Distance: 8.56 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 2.50 m
+Speed: 45Km/h
+Distance: 2.24 m
+Speed: 45Km/h
+Distance: 0.97 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 1.72 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 9.95 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 2.92 m
+Speed: 45Km/h
+Distance: 4.58 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 4.19 m
+Speed: 45Km/h
+Distance: 4.54 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.31 m
+Speed: 45Km/h
+Distance: 0.31 m
+Speed: 45Km/h
+Distance: 0.31 m
+Speed: 45Km/h
+Distance: 0.30 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.30 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.24 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.25 m
+Speed: 45Km/h
+Distance: 0.24 m
+Speed: 45Km/h
+Distance: 0.23 m
+Speed: 45Km/h
+Distance: 0.25 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.27 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.25 m
+Speed: 45Km/h
+Distance: 0.23 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.30 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.25 m
+Speed: 45Km/h
+Distance: 0.27 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.27 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.27 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.30 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.40 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.30 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 2.01 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.26 m
+Speed: 45Km/h
+Distance: 2.02 m
+Speed: 45Km/h
+Distance: 0.25 m
+Speed: 45Km/h
+Distance: 0.33 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.29 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.17 m
+Speed: 45Km/h
+Distance: 0.16 m
+Speed: 45Km/h
+Distance: 0.32 m
+Speed: 45Km/h
+Distance: 0.15 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.28 m
+Speed: 45Km/h
+Distance: 0.09 m
+Speed: 45Km/h
+Distance: 0.10 m
+Speed: 45Km/h
+Distance: 10.01 m
+Speed: 45Km/h
+Distance: 0.09 m
+Speed: 45Km/h
+Distance: 0.07 m
+Speed: 45Km/h
+Distance: 0.08 m
+Speed: 45Km/h
+Distance: 0.08 m
+Speed: 45Km/h
+Distance: 0.08 m
+Speed: 45Km/h
+Distance: 0.08 m
+Speed: 45Km/h
+Distance: 7.17 cm
+Distance: 1001.16 cm
+Distance: 1001.47 cm
+Distance: 379.80 cm
+Speed:  30 Km/h
+-------------------------------------------
+Distance: 375.59 cm
+Speed:  31 Km/h
+-------------------------------------------
+Distance: 382.71 cm
+Speed:  32 Km/h
+-------------------------------------------
+Distance: 381.42 cm
+Speed:  33 Km/h
+-------------------------------------------
+Distance: 103.10 cm
+Speed:  34 Km/h
+-------------------------------------------
+Distance: 373.84 cm
+Speed:  35 Km/h
+-------------------------------------------
+Distance: 373.95 cm
+Speed:  36 Km/h
+-------------------------------------------
+Distance: 373.94 cm
+Speed:  37 Km/h
+-------------------------------------------
+Distance: 374.75 cm
+Speed:  38 Km/h
+-------------------------------------------
+Distance: 375.60 cm
+Speed:  39 Km/h
+-------------------------------------------
+Distance: 374.74 cm
+Speed:  40 Km/h
+-------------------------------------------
+Distance: 373.90 cm
+Speed:  41 Km/h
+-------------------------------------------
+Distance: 374.77 cm
+Speed:  42 Km/h
+-------------------------------------------
+Distance: 374.73 cm
+Speed:  43 Km/h
+-------------------------------------------
+Distance: 374.37 cm
+Speed:  44 Km/h
+-------------------------------------------
+Distance: 374.35 cm
+Speed:  45 Km/h
+-------------------------------------------
+Distance: 374.80 cm
+Speed:  46 Km/h
+-------------------------------------------
+Distance: 375.21 cm
+Speed:  47 Km/h
+-------------------------------------------
+Distance: 374.39 cm
+Speed:  48 Km/h
+-------------------------------------------
+Distance: 373.67 cm
+Speed:  49 Km/h
+-------------------------------------------
+Distance: 373.39 cm
+Speed:  50 Km/h
+-------------------------------------------
+Distance: 373.69 cm
+Speed:  51 Km/h
+-------------------------------------------
+Distance: 375.57 cm
+Speed:  52 Km/h
+-------------------------------------------
+Distance: 299.23 cm
+Speed:  0 Km/h
+-------------------------------------------
+Distance: 300.49 cm
+Speed:  1 Km/h
+-------------------------------------------
+Distance: 300.49 cm
+Speed:  2 Km/h
+-------------------------------------------
+Distance: 298.30 cm
+Speed:  3 Km/h
+-------------------------------------------
+Distance: 299.65 cm
+Speed:  4 Km/h
+-------------------------------------------
+Distance: 301.35 cm
+Speed:  5 Km/h
+-------------------------------------------
+Distance: 298.30 cm
+Speed:  6 Km/h
+-------------------------------------------
+Distance: 299.68 cm
+Speed:  7 Km/h
+-------------------------------------------
+Distance: 299.24 cm
+Speed:  8 Km/h
+-------------------------------------------
+Distance: 300.09 cm
+Speed:  9 Km/h
+-------------------------------------------
+Distance: 299.24 cm
+Speed:  10 Km/h
+-------------------------------------------
+Distance: 298.73 cm
+Speed:  11 Km/h
+-------------------------------------------
+Distance: 374.64 cm
+Speed:  12 Km/h
+-------------------------------------------
+Distance: 298.32 cm
+Speed:  13 Km/h
+-------------------------------------------
+Distance: 297.90 cm
+Speed:  14 Km/h
+-------------------------------------------
+Distance: 298.83 cm
+Speed:  15 Km/h
+-------------------------------------------
+Distance: 300.53 cm
+Speed:  16 Km/h
+-------------------------------------------
+Distance: 299.26 cm
+Speed:  17 Km/h
+-------------------------------------------
+Distance: 239.67 cm
+Speed:  18 Km/h
+-------------------------------------------
+Distance: 130.01 cm
+Speed:  19 Km/h
+-------------------------------------------
+Distance: 165.55 cm
+Speed:  20 Km/h
+-------------------------------------------
+Distance: 129.09 cm
+Speed:  21 Km/h
+-------------------------------------------
+Distance: 164.71 cm
+Speed:  22 Km/h
+-------------------------------------------
+Distance: 130.00 cm
+Speed:  23 Km/h
+-------------------------------------------
+Distance: 164.63 cm
+Speed:  24 Km/h
+-------------------------------------------
+Distance: 129.59 cm
+Speed:  25 Km/h
+-------------------------------------------
+Distance: 166.38 cm
+Speed:  26 Km/h
+-------------------------------------------
+Distance: 202.87 cm
+Speed:  27 Km/h
+-------------------------------------------
+Distance: 167.75 cm
+Speed:  28 Km/h
+-------------------------------------------
+Distance: 126.13 cm
+Speed:  29 Km/h
+-------------------------------------------
+Distance: 170.70 cm
+Speed:  30 Km/h
+-------------------------------------------
+Distance: 124.44 cm
+Speed:  31 Km/h
+-------------------------------------------
+Distance: 171.97 cm
+Speed:  32 Km/h
+-------------------------------------------
+Distance: 121.92 cm
+Speed:  33 Km/h
+-------------------------------------------
+Distance: 172.72 cm
+Speed:  34 Km/h
+-------------------------------------------
+Distance: 121.08 cm
+Speed:  35 Km/h
+-------------------------------------------
+Distance: 173.99 cm
+Speed:  36 Km/h
+-------------------------------------------
+Distance: 196.52 cm
+Speed:  37 Km/h
+-------------------------------------------
+Distance: 173.21 cm
+Speed:  38 Km/h
+-------------------------------------------
+Distance: 123.17 cm
+Speed:  39 Km/h
+-------------------------------------------
+Distance: 298.01 cm
+Speed:  0 Km/h
+-------------------------------------------
+Distance: 297.98 cm
+Speed:  1 Km/h
+-------------------------------------------
+Distance: 298.92 cm
+Speed:  2 Km/h
+-------------------------------------------
+Distance: 297.57 cm
+Speed:  3 Km/h
+-------------------------------------------
+Distance: 192.47 cm
+Speed:  4 Km/h
+-------------------------------------------
+Distance: 105.70 cm
+Speed:  5 Km/h
+-------------------------------------------
+Distance: 187.32 cm
+Speed:  6 Km/h
+-------------------------------------------
+Distance: 104.26 cm
+Speed:  7 Km/h
+-------------------------------------------
+Distance: 189.61 cm
+Speed:  8 Km/h
+-------------------------------------------
+Distance: 107.28 cm
+Speed:  9 Km/h
+-------------------------------------------
+Distance: 185.55 cm
+Speed:  10 Km/h
+-------------------------------------------
+Distance: 106.12 cm
+Speed:  11 Km/h
+-------------------------------------------
+Distance: 186.47 cm
+Speed:  12 Km/h
+-------------------------------------------
+Distance: 111.70 cm
+Speed:  13 Km/h
+-------------------------------------------
+Distance: 181.01 cm
+Speed:  14 Km/h
+-------------------------------------------
+Distance: 112.46 cm
+Speed:  15 Km/h
+-------------------------------------------
+Distance: 179.74 cm
+Speed:  16 Km/h
+-------------------------------------------
+Distance: 113.78 cm
+Speed:  17 Km/h
+-------------------------------------------
+Distance: 180.57 cm
+Speed:  18 Km/h
+-------------------------------------------
+Distance: 72.10 cm
+Speed:  19 Km/h
+-------------------------------------------
+Distance: 112.11 cm
+Speed:  20 Km/h
+-------------------------------------------
+Distance: 105.20 cm
+Speed:  21 Km/h
+-------------------------------------------
+Distance: 71.24 cm
+Speed:  22 Km/h
+-------------------------------------------
+Distance: 111.69 cm
+Speed:  23 Km/h
+-------------------------------------------
+Distance: 104.35 cm
+Speed:  24 Km/h
+-------------------------------------------
+Distance: 148.77 cm
+Speed:  25 Km/h
+-------------------------------------------
+Distance: 88.66 cm
+Speed:  26 Km/h
+-------------------------------------------
+Distance: 130.36 cm
+Speed:  27 Km/h
+-------------------------------------------
+Distance: 145.79 cm
+Speed:  28 Km/h
+-------------------------------------------
+Distance: 148.58 cm
+Speed:  29 Km/h
+-------------------------------------------
+Distance: 148.75 cm
+Speed:  30 Km/h
+-------------------------------------------
+Distance: 144.26 cm
+Speed:  31 Km/h
+-------------------------------------------
+Distance: 152.19 cm
+Speed:  32 Km/h
+-------------------------------------------
+Distance: 142.16 cm
+Speed:  33 Km/h
+-------------------------------------------
+Distance: 151.35 cm
+Speed:  34 Km/h
+-------------------------------------------
+Distance: 140.92 cm
+Speed:  35 Km/h
+-------------------------------------------
+Distance: 151.73 cm
+Speed:  36 Km/h
+-------------------------------------------
+Distance: 140.99 cm
+Speed:  37 Km/h
+-------------------------------------------
+Distance: 152.56 cm
+Speed:  38 Km/h
+-------------------------------------------
+Distance: 139.61 cm
+Speed:  39 Km/h
+-------------------------------------------
+Distance: 297.97 cm
+Speed:  0 Km/h
+-------------------------------------------
+Distance: 301.78 cm
+Speed:  1 Km/h
+-------------------------------------------
+Distance: 298.77 cm
+Speed:  2 Km/h
+-------------------------------------------
+Distance: 297.90 cm
+Speed:  3 Km/h
+-------------------------------------------
+Distance: 298.78 cm
+Speed:  4 Km/h
+-------------------------------------------
+Distance: 374.14 cm
+Speed:  5 Km/h
+-------------------------------------------
+Distance: 299.69 cm
+Speed:  6 Km/h
+-------------------------------------------
+Distance: 300.95 cm
+Speed:  7 Km/h
+-------------------------------------------
+Distance: 98.43 cm
+Speed:  8 Km/h
+-------------------------------------------
+Distance: 118.26 cm
+Speed:  9 Km/h
+-------------------------------------------
+Distance: 148.17 cm
+Speed:  10 Km/h
+-------------------------------------------
+Distance: 99.63 cm
+Speed:  11 Km/h
+-------------------------------------------
+Distance: 117.53 cm
+Speed:  12 Km/h
+-------------------------------------------
+Distance: 149.17 cm
+Speed:  13 Km/h
+-------------------------------------------
+Distance: 147.66 cm
+Speed:  14 Km/h
+-------------------------------------------
+Distance: 111.77 cm
+Speed:  15 Km/h
+-------------------------------------------
+Distance: 109.41 cm
+Speed:  16 Km/h
+-------------------------------------------
+Distance: 146.14 cm
+Speed:  17 Km/h
+-------------------------------------------
+Distance: 108.05 cm
+Speed:  18 Km/h
+-------------------------------------------
+Distance: 116.34 cm
+Speed:  19 Km/h
+-------------------------------------------
+Distance: 140.92 cm
+Speed:  20 Km/h
+-------------------------------------------
+Distance: 107.82 cm
+Speed:  21 Km/h
+-------------------------------------------
+Distance: 185.57 cm
+Speed:  22 Km/h
+-------------------------------------------
+Distance: 184.48 cm
+Speed:  23 Km/h
+-------------------------------------------
+Distance: 112.79 cm
+Speed:  24 Km/h
+-------------------------------------------
+Distance: 179.74 cm
+Speed:  25 Km/h
+-------------------------------------------
+Distance: 115.83 cm
+Speed:  26 Km/h
+-------------------------------------------
+Distance: 178.37 cm
+Speed:  27 Km/h
+-------------------------------------------
+Distance: 115.50 cm
+Speed:  28 Km/h
+-------------------------------------------
+Distance: 178.29 cm
+Speed:  29 Km/h
+-------------------------------------------
+Distance: 116.43 cm
+Speed:  30 Km/h
+-------------------------------------------
+Distance: 177.80 cm
+Speed:  31 Km/h
+-------------------------------------------
+Distance: 115.67 cm
+Speed:  32 Km/h
+-------------------------------------------
+Distance: 177.30 cm
+Speed:  33 Km/h
+-------------------------------------------
+Distance: 122.84 cm
+Speed:  34 Km/h
+-------------------------------------------
+Distance: 171.06 cm
+Speed:  35 Km/h
+-------------------------------------------
+Distance: 121.91 cm
+Speed:  36 Km/h
+-------------------------------------------
+Distance: 171.49 cm
+Speed:  37 Km/h
+-------------------------------------------
+Distance: 121.48 cm
+Speed:  38 Km/h
+-------------------------------------------
+Distance: 171.97 cm
+Speed:  39 Km/h
+-------------------------------------------
+Distance: 298.01 cm
+Speed:  0 Km/h
+-------------------------------------------
+Distance: 300.55 cm
+Speed:  1 Km/h
+-------------------------------------------
+Distance: 297.58 cm
+Speed:  2 Km/h
+-------------------------------------------
+Distance: 299.27 cm
+Speed:  3 Km/h
+-------------------------------------------
+Distance: 300.10 cm
+Speed:  4 Km/h
+-------------------------------------------
+Distance: 298.84 cm
+Speed:  5 Km/h
+-------------------------------------------
+Distance: 298.43 cm
+Speed:  6 Km/h
+-------------------------------------------
+Distance: 298.84 cm
+Speed:  7 Km/h
+-------------------------------------------
+Distance: 298.44 cm
+Speed:  8 Km/h
+-------------------------------------------
+Distance: 299.72 cm
+Speed:  9 Km/h
+-------------------------------------------
+Distance: 298.03 cm
+Speed:  10 Km/h
+-------------------------------------------
+Distance: 298.43 cm
+Speed:  11 Km/h
+-------------------------------------------
+Distance: 300.54 cm
+Speed:  12 Km/h
+-------------------------------------------
+Distance: 298.01 cm
+Speed:  13 Km/h
+-------------------------------------------
+Distance: 300.13 cm
+Speed:  14 Km/h
+-------------------------------------------
+Distance: 297.60 cm
+Speed:  15 Km/h
+-------------------------------------------
+Distance: 298.85 cm
+Speed:  16 Km/h
+-------------------------------------------
+Distance: 298.45 cm
+Speed:  17 Km/h
+-------------------------------------------
+Distance: 298.00 cm
+Speed:  18 Km/h
+-------------------------------------------
+Distance: 298.43 cm
+Speed:  19 Km/h
+-------------------------------------------
+Distance: 300.57 cm
+Speed:  20 Km/h
+-------------------------------------------
+Distance: 298.87 cm
+Speed:  21 Km/h
+-------------------------------------------
+Distance: 298.01 cm
+Speed:  22 Km/h
+-------------------------------------------
+Distance: 298.03 cm
+Speed:  23 Km/h
+-------------------------------------------
+Distance: 298.03 cm
+Speed:  24 Km/h
+-------------------------------------------
+Distance: 298.02 cm
+Speed:  25 Km/h
+-------------------------------------------
+Distance: 298.44 cm
+Speed:  26 Km/h
+-------------------------------------------
+Distance: 303.93 cm
+Speed:  27 Km/h
+-------------------------------------------
+Distance: 297.59 cm
+Speed:  28 Km/h
+-------------------------------------------
+Distance: 300.12 cm
+Speed:  29 Km/h
+-------------------------------------------
+Distance: 298.02 cm
+Speed:  30 Km/h
+-------------------------------------------
+Distance: 297.58 cm
+Speed:  31 Km/h
+-------------------------------------------
+Distance: 298.86 cm
+Speed:  32 Km/h
+-------------------------------------------
+Distance: 298.03 cm
+Speed:  33 Km/h
+-------------------------------------------
+Distance: 298.01 cm
+Speed:  34 Km/h
+-------------------------------------------
+Distance: 300.12 cm
+Speed:  35 Km/h
+-------------------------------------------
+Distance: 298.02 cm
+Speed:  36 Km/h
+-------------------------------------------
+Distance: 299.78 cm
+Speed:  37 Km/h
+-------------------------------------------
+Distance: 299.27 cm
+Speed:  38 Km/h
+-------------------------------------------
+Distance: 299.71 cm
+Speed:  39 Km/h
+-------------------------------------------
+Distance: 298.77 cm
+Speed:  0 Km/h
+Distance: 297.94 cm
+Speed:  1 Km/h
+Distance: 297.94 cm
+Speed:  2 Km/h
+Distance: 298.88 cm
+Speed:  3 Km/h
+Distance: 300.52 cm
+Speed:  4 Km/h
+Distance: 300.11 cm
+Speed:  5 Km/h
+Distance: 299.28 cm
+Speed:  6 Km/h
+Distance: 300.12 cm
+Speed:  7 Km/h
+Distance: 300.12 cm
+Speed:  8 Km/h
+Distance: 298.80 cm
+Speed:  9 Km/h
+Distance: 298.37 cm
+Speed:  10 Km/h
+Distance: 299.22 cm
+Speed:  11 Km/h
+Distance: 298.79 cm
+Speed:  12 Km/h
+Distance: 298.37 cm
+Speed:  13 Km/h
+Distance: 297.96 cm
+Speed:  14 Km/h
+Distance: 298.34 cm
+Speed:  15 Km/h
+Distance: 302.25 cm
+Speed:  16 Km/h
+Distance: 299.28 cm
+Speed:  17 Km/h
+Distance: 299.31 cm
+Speed:  18 Km/h
+Distance: 299.22 cm
+Speed:  19 Km/h
+Distance: 298.80 cm
+Speed:  20 Km/h
+Distance: 298.37 cm
+Speed:  21 Km/h
+Distance: 298.02 cm
+Speed:  22 Km/h
+Distance: 298.43 cm
+Speed:  23 Km/h
+Distance: 299.63 cm
+Speed:  24 Km/h
+Distance: 300.93 cm
+Speed:  25 Km/h
+Distance: 301.83 cm
+Speed:  26 Km/h
+Distance: 298.81 cm
+Speed:  27 Km/h
+Distance: 297.93 cm
+Speed:  28 Km/h
+Distance: 299.21 cm
+Speed:  29 Km/h
+Distance: 299.72 cm
+Speed:  30 Km/h
+Distance: 299.23 cm
+Speed:  31 Km/h
+Distance: 299.23 cm
+Speed:  32 Km/h
+Distance: 298.79 cm
+Speed:  33 Km/h
+Distance: 300.06 cm
+Speed:  34 Km/h
+Distance: 300.93 cm
+Speed:  35 Km/h
+Distance: 374.68 cm
+Speed:  36 Km/h
+Distance: 298.37 cm
+Speed:  37 Km/h
+Distance: 376.39 cm
+Speed:  38 Km/h
+Distance: 300.50 cm
+Speed:  39 Km/h
+Distance: 298.43 cm
+Speed:  0 Km/h
+Distance: 298.85 cm
+Speed:  1 Km/h
+Distance: 298.86 cm
+Speed:  2 Km/h
+Distance: 298.86 cm
+Speed:  3 Km/h
+Distance: 298.46 cm
+Speed:  4 Km/h
+Distance: 298.41 cm
+Speed:  5 Km/h
+Distance: 298.05 cm
+Speed:  6 Km/h
+Distance: 298.05 cm
+Speed:  7 Km/h
+Distance: 298.56 cm
+Speed:  8 Km/h
+Distance: 298.46 cm
+Speed:  9 Km/h
+Distance: 298.02 cm
+Speed:  10 Km/h
+Distance: 299.27 cm
+Speed:  11 Km/h
+Distance: 298.02 cm
+Speed:  12 Km/h
+Distance: 374.33 cm
+Speed:  13 Km/h
+Distance: 298.87 cm
+Speed:  14 Km/h
+Distance: 299.75 cm
+Speed:  15 Km/h
+Distance: 299.36 cm
+Speed:  16 Km/h
+Distance: 298.92 cm
+Speed:  17 Km/h
+Distance: 298.47 cm
+Speed:  18 Km/h
+Distance: 298.85 cm
+Speed:  19 Km/h
+Distance: 299.33 cm
+Speed:  20 Km/h
+Distance: 298.38 cm
+Speed:  21 Km/h
+Distance: 298.40 cm
+Speed:  22 Km/h
+Distance: 298.82 cm
+Speed:  23 Km/h
+Distance: 298.78 cm
+Speed:  24 Km/h
+Distance: 302.18 cm
+Speed:  25 Km/h
+Distance: 298.86 cm
+Speed:  26 Km/h
+Distance: 298.39 cm
+Speed:  27 Km/h
+Distance: 298.91 cm
+Speed:  28 Km/h
+Distance: 298.02 cm
+Speed:  29 Km/h
+Distance: 301.80 cm
+Speed:  30 Km/h
+Distance: 298.44 cm
+Speed:  31 Km/h
+Distance: 299.75 cm
+Speed:  32 Km/h
+Distance: 298.46 cm
+Speed:  33 Km/h
+Distance: 299.34 cm
+Speed:  34 Km/h
+Distance: 298.10 cm
+Speed:  35 Km/h
+Distance: 299.31 cm
+Speed:  36 Km/h
+Distance: 298.91 cm
+Speed:  37 Km/h
+Distance: 298.97 cm
+Speed:  38 Km/h
+Distance: 298.27 cm
+Speed:  39 Km/h
+Distance: 303.92 cm
+Speed:  0 Km/h
+Distance: 297.65 cm
+Speed:  1 Km/h
+Distance: 298.49 cm
+Speed:  2 Km/h
+Distance: 301.02 cm
+Speed:  3 Km/h
+Distance: 298.93 cm
+Speed:  4 Km/h
+Distance: 298.50 cm
+Speed:  5 Km/h
+Distance: 299.59 cm
+Speed:  6 Km/h
+Distance: 299.33 cm
+Speed:  7 Km/h
+Distance: 298.55 cm
+Speed:  8 Km/h
+Distance: 297.60 cm
+Speed:  9 Km/h
+Distance: 298.47 cm
+Speed:  10 Km/h
+Distance: 298.47 cm
+Speed:  11 Km/h
+Distance: 297.65 cm
+Speed:  12 Km/h
+Distance: 297.63 cm
+Speed:  13 Km/h
+Distance: 298.48 cm
+Speed:  14 Km/h
+Distance: 297.63 cm
+Speed:  15 Km/h
+Distance: 78.83 cm
+Speed:  16 Km/h
+Distance: 299.75 cm
+Speed:  17 Km/h
+Distance: 100.45 cm
+Speed:  18 Km/h
+Distance: 298.05 cm
+Speed:  19 Km/h
+Distance: 298.05 cm
+Speed:  20 Km/h
+Distance: 297.95 cm
+Speed:  21 Km/h
+Distance: 298.06 cm
+Speed:  22 Km/h
+Distance: 298.91 cm
+Speed:  23 Km/h
+Distance: 300.14 cm
+Speed:  24 Km/h
+Distance: 300.63 cm
+Speed:  25 Km/h
+Distance: 298.05 cm
+Speed:  26 Km/h
+Distance: 299.71 cm
+Speed:  27 Km/h
+Distance: 300.11 cm
+Speed:  28 Km/h
+Distance: 300.58 cm
+Speed:  29 Km/h
+Distance: 297.66 cm
+Speed:  30 Km/h
+Distance: 272.48 cm
+Speed:  31 Km/h
+Distance: 299.32 cm
+Speed:  32 Km/h
+Distance: 297.65 cm
+Speed:  33 Km/h
+Distance: 152.44 cm
+Speed:  34 Km/h
+Distance: 298.87 cm
+Speed:  35 Km/h
+Distance: 299.72 cm
+Speed:  36 Km/h
+Distance: 121.96 cm
+Speed:  37 Km/h
+Distance: 298.44 cm
+Speed:  38 Km/h
+Distance: 299.33 cm
+Speed:  39 Km/h
+Distance: 299.29 cm
+Speed:  0 Km/h
+Distance: 297.67 cm
+Speed:  1 Km/h
+Distance: 297.59 cm
+Speed:  2 Km/h
+Distance: 298.03 cm
+Speed:  3 Km/h
+Distance: 299.31 cm
+Speed:  4 Km/h
+Distance: 298.03 cm
+Speed:  5 Km/h
+Distance: 298.46 cm
+Speed:  6 Km/h
+Distance: 298.43 cm
+Speed:  7 Km/h
+Distance: 298.46 cm
+Speed:  8 Km/h
+Distance: 298.02 cm
+Speed:  9 Km/h
+Distance: 300.18 cm
+Speed:  10 Km/h
+Distance: 298.03 cm
+Speed:  11 Km/h
+Distance: 298.48 cm
+Speed:  12 Km/h
+Distance: 298.46 cm
+Speed:  13 Km/h
+Distance: 298.43 cm
+Speed:  14 Km/h
+Distance: 299.31 cm
+Speed:  15 Km/h
+Distance: 297.63 cm
+Speed:  16 Km/h
+Distance: 299.29 cm
+Speed:  17 Km/h
+Distance: 298.88 cm
+Speed:  18 Km/h
+Distance: 298.03 cm
+Speed:  19 Km/h
+Distance: 297.63 cm
+Speed:  20 Km/h
+Distance: 297.63 cm
+Speed:  21 Km/h
+Distance: 299.34 cm
+Speed:  22 Km/h
+Distance: 298.05 cm
+Speed:  23 Km/h
+Distance: 297.63 cm
+Speed:  24 Km/h
+Distance: 300.61 cm
+Speed:  25 Km/h
+Distance: 298.06 cm
+Speed:  26 Km/h
+Distance: 299.30 cm
+Speed:  27 Km/h
+Distance: 298.04 cm
+Speed:  28 Km/h
+Distance: 298.46 cm
+Speed:  29 Km/h
+Distance: 298.01 cm
+Speed:  30 Km/h
+Distance: 299.73 cm
+Speed:  31 Km/h
+Distance: 298.90 cm
+Speed:  32 Km/h
+Distance: 297.64 cm
+Speed:  33 Km/h
+Distance: 298.88 cm
+Speed:  34 Km/h
+Distance: 298.01 cm
+Speed:  35 Km/h
+Distance: 297.62 cm
+Speed:  36 Km/h
+Distance: 297.62 cm
+Speed:  37 Km/h
+Distance: 298.87 cm
+Speed:  38 Km/h
+Distance: 298.86 cm
+Speed:  39 Km/h
+Distance: 298.57 cm
+Speed:  0 Km/h
+Distance: 297.67 cm
+Speed:  1 Km/h
+Distance: 298.11 cm
+Speed:  2 Km/h
+Distance: 298.60 cm
+Speed:  3 Km/h
+Distance: 299.83 cm
+Speed:  4 Km/h
+Distance: 297.66 cm
+Speed:  5 Km/h
+Distance: 297.65 cm
+Speed:  6 Km/h
+Distance: 297.65 cm
+Speed:  7 Km/h
+Distance: 298.09 cm
+Speed:  8 Km/h
+Distance: 297.67 cm
+Speed:  9 Km/h
+Distance: 298.17 cm
+Speed:  10 Km/h
+Distance: 299.38 cm
+Speed:  11 Km/h
+Distance: 298.10 cm
+Speed:  12 Km/h
+Distance: 298.52 cm
+Speed:  13 Km/h
+Distance: 298.10 cm
+Speed:  14 Km/h
+Distance: 298.93 cm
+Speed:  15 Km/h
+Distance: 298.94 cm
+Speed:  16 Km/h
+Distance: 298.12 cm
+Speed:  17 Km/h
+Distance: 298.11 cm
+Speed:  18 Km/h
+Distance: 299.37 cm
+Speed:  19 Km/h
+Distance: 297.69 cm
+Speed:  20 Km/h
+Distance: 298.95 cm
+Speed:  21 Km/h
+Distance: 297.69 cm
+Speed:  22 Km/h
+Distance: 297.63 cm
+Speed:  23 Km/h
+Distance: 299.39 cm
+Speed:  24 Km/h
+Distance: 298.95 cm
+Speed:  25 Km/h
+Distance: 297.71 cm
+Speed:  26 Km/h
+Distance: 299.37 cm
+Speed:  27 Km/h
+Distance: 298.94 cm
+Speed:  28 Km/h
+Distance: 298.53 cm
+Speed:  29 Km/h
+Distance: 298.55 cm
+Speed:  30 Km/h
+Distance: 298.54 cm
+Speed:  31 Km/h
+Distance: 299.37 cm
+Speed:  32 Km/h
+Distance: 298.96 cm
+Speed:  33 Km/h
+Distance: 297.69 cm
+Speed:  34 Km/h
+Distance: 298.09 cm
+Speed:  35 Km/h
+Distance: 298.11 cm
+Speed:  36 Km/h
+Distance: 297.69 cm
+Speed:  37 Km/h
+Distance: 298.52 cm
+Speed:  38 Km/h
+Distance: 298.95 cm
+Speed:  39 Km/h
+Distance: 299.01 cm
+Speed:  0 Km/h
+Distance: 264.26 cm
+Speed:  1 Km/h
+Distance: 297.66 cm
+Speed:  2 Km/h
+Distance: 297.67 cm
+Speed:  3 Km/h
+Distance: 165.15 cm
+Speed:  4 Km/h
+Distance: 128.04 cm
+Speed:  5 Km/h
+Distance: 168.42 cm
+Speed:  6 Km/h
+Distance: 125.89 cm
+Speed:  7 Km/h
+Distance: 166.91 cm
+Speed:  8 Km/h
+Distance: 133.47 cm
+Speed:  9 Km/h
+Distance: 160.14 cm
+Speed:  10 Km/h
+Distance: 132.62 cm
+Speed:  11 Km/h
+Distance: 160.97 cm
+Speed:  12 Km/h
+Distance: 131.37 cm
+Speed:  13 Km/h
+Distance: 162.08 cm
+Speed:  14 Km/h
+Distance: 138.61 cm
+Speed:  15 Km/h
+Distance: 156.26 cm
+Speed:  16 Km/h
+Distance: 140.32 cm
+Speed:  17 Km/h
+Distance: 152.90 cm
+Speed:  18 Km/h
+Distance: 148.68 cm
+Speed:  19 Km/h
+Distance: 144.54 cm
+Speed:  20 Km/h
+Distance: 149.52 cm
+Speed:  21 Km/h
+Distance: 143.27 cm
+Speed:  22 Km/h
+Distance: 149.42 cm
+Speed:  23 Km/h
+Distance: 143.79 cm
+Speed:  24 Km/h
+Distance: 150.30 cm
+Speed:  25 Km/h
+Distance: 143.36 cm
+Speed:  26 Km/h
+Distance: 149.87 cm
+Speed:  27 Km/h
+Distance: 142.41 cm
+Speed:  28 Km/h
+Distance: 152.06 cm
+Speed:  29 Km/h
+Distance: 142.84 cm
+Speed:  30 Km/h
+Distance: 150.36 cm
+Speed:  31 Km/h
+Distance: 141.91 cm
+Speed:  32 Km/h
+Distance: 151.28 cm
+Speed:  33 Km/h
+Distance: 141.49 cm
+Speed:  34 Km/h
+Distance: 151.70 cm
+Speed:  35 Km/h
+Distance: 142.35 cm
+Speed:  36 Km/h
+Distance: 152.13 cm
+Speed:  37 Km/h
+Distance: 118.28 cm
+Speed:  38 Km/h
+Distance: 95.39 cm
+Speed:  39 Km/h
+Distance: 299.85 cm
+Speed:  0 Km/h
+Distance: 297.65 cm
+Speed:  1 Km/h
+Distance: 298.50 cm
+Speed:  2 Km/h
+Distance: 298.76 cm
+Speed:  3 Km/h
+Distance: 298.52 cm
+Speed:  4 Km/h
+Distance: 297.67 cm
+Speed:  5 Km/h
+Distance: 297.63 cm
+Speed:  6 Km/h
+Distance: 298.48 cm
+Speed:  7 Km/h
+Distance: 298.49 cm
+Speed:  8 Km/h
+Distance: 297.67 cm
+Speed:  9 Km/h
+Distance: 297.65 cm
+Speed:  10 Km/h
+Distance: 298.07 cm
+Speed:  11 Km/h
+Distance: 297.74 cm
+Speed:  12 Km/h
+Distance: 298.09 cm
+Speed:  13 Km/h
+Distance: 297.70 cm
+Speed:  14 Km/h
+Distance: 298.10 cm
+Speed:  15 Km/h
+Distance: 298.10 cm
+Speed:  16 Km/h
+Distance: 298.08 cm
+Speed:  17 Km/h
+Distance: 298.10 cm
+Speed:  18 Km/h
+Distance: 298.10 cm
+Speed:  19 Km/h
+Distance: 298.93 cm
+Speed:  20 Km/h
+Distance: 297.69 cm
+Speed:  21 Km/h
+Distance: 298.11 cm
+Speed:  22 Km/h
+Distance: 298.97 cm
+Speed:  23 Km/h
+Distance: 297.68 cm
+Speed:  24 Km/h
+Distance: 299.38 cm
+Speed:  25 Km/h
+Distance: 298.09 cm
+Speed:  26 Km/h
+Distance: 298.94 cm
+Speed:  27 Km/h
+Distance: 300.20 cm
+Speed:  28 Km/h
+Distance: 298.53 cm
+Speed:  29 Km/h
+Distance: 298.11 cm
+Speed:  30 Km/h
+Distance: 298.10 cm
+Speed:  31 Km/h
+Distance: 299.38 cm
+Speed:  32 Km/h
+Distance: 298.11 cm
+Speed:  33 Km/h
+Distance: 297.69 cm
+Speed:  34 Km/h
+Distance: 297.68 cm
+Speed:  35 Km/h
+Distance: 297.67 cm
+Speed:  36 Km/h
+Distance: 298.95 cm
+Speed:  37 Km/h
+Distance: 298.11 cm
+Speed:  38 Km/h
+Distance: 299.37 cm
+Speed:  39 Km/h
+Distance: 297.66 cm
+Speed:  0 Km/h
+Distance: 298.49 cm
+Speed:  1 Km/h
+Distance: 298.51 cm
+Speed:  2 Km/h
+Distance: 298.06 cm
+Speed:  3 Km/h
+Distance: 298.07 cm
+Speed:  4 Km/h
+Distance: 298.07 cm
+Speed:  5 Km/h
+Distance: 298.17 cm
+Speed:  6 Km/h
+Distance: 298.52 cm
+Speed:  7 Km/h
+Distance: 298.59 cm
+Speed:  8 Km/h
+Distance: 298.08 cm
+Speed:  9 Km/h
+Distance: 297.68 cm
+Speed:  10 Km/h
+Distance: 297.65 cm
+Speed:  11 Km/h
+Distance: 297.65 cm
+Speed:  12 Km/h
+Distance: 300.25 cm
+Speed:  13 Km/h
+Distance: 298.48 cm
+Speed:  14 Km/h
+Distance: 298.10 cm
+Speed:  15 Km/h
+Distance: 298.52 cm
+Speed:  16 Km/h
+Distance: 300.29 cm
+Speed:  17 Km/h
+Distance: 299.01 cm
+Speed:  18 Km/h
+Distance: 297.70 cm
+Speed:  19 Km/h
+Distance: 299.39 cm
+Speed:  20 Km/h
+Distance: 298.96 cm
+Speed:  21 Km/h
+Distance: 298.08 cm
+Speed:  22 Km/h
+Distance: 299.37 cm
+Speed:  23 Km/h
+Distance: 298.52 cm
+Speed:  24 Km/h
+Distance: 297.64 cm
+Speed:  25 Km/h
+Distance: 299.43 cm
+Speed:  26 Km/h
+Distance: 297.64 cm
+Speed:  27 Km/h
+Distance: 299.01 cm
+Speed:  28 Km/h
+Distance: 300.71 cm
+Speed:  29 Km/h
+Distance: 299.87 cm
+Speed:  30 Km/h
+Distance: 298.99 cm
+Speed:  31 Km/h
+Distance: 299.00 cm
+Speed:  32 Km/h
+Distance: 298.59 cm
+Speed:  33 Km/h
+Distance: 297.72 cm
+Speed:  34 Km/h
+Distance: 299.42 cm
+Speed:  35 Km/h
+Distance: 298.99 cm
+Speed:  36 Km/h
+Distance: 302.79 cm
+Speed:  37 Km/h
+Distance: 299.84 cm
+Speed:  38 Km/h
+Distance: 297.66 cm
+Speed:  39 Km/h
+Distance: 298.06 cm
+Speed:  0 Km/h
+Distance: 297.63 cm
+Speed:  1 Km/h
+Distance: 298.04 cm
+Speed:  2 Km/h
+Distance: 299.38 cm
+Speed:  3 Km/h
+Distance: 297.73 cm
+Speed:  4 Km/h
+Distance: 298.04 cm
+Speed:  5 Km/h
+Distance: 298.59 cm
+Speed:  6 Km/h
+Distance: 298.09 cm
+Speed:  7 Km/h
+Distance: 298.07 cm
+Speed:  8 Km/h
+Distance: 298.48 cm
+Speed:  9 Km/h
+Distance: 298.14 cm
+Speed:  10 Km/h
+Distance: 298.55 cm
+Speed:  11 Km/h
+Distance: 298.06 cm
+Speed:  12 Km/h
+Distance: 298.98 cm
+Speed:  13 Km/h
+Distance: 297.63 cm
+Speed:  14 Km/h
+Distance: 299.83 cm
+Speed:  15 Km/h
+Distance: 298.07 cm
+Speed:  16 Km/h
+Distance: 297.65 cm
+Speed:  17 Km/h
+Distance: 297.65 cm
+Speed:  18 Km/h
+Distance: 298.05 cm
+Speed:  19 Km/h
+Distance: 298.08 cm
+Speed:  20 Km/h
+Distance: 298.48 cm
+Speed:  21 Km/h
+Distance: 298.49 cm
+Speed:  22 Km/h
+Distance: 300.68 cm
+Speed:  23 Km/h
+Distance: 298.07 cm
+Speed:  24 Km/h
+Distance: 298.52 cm
+Speed:  25 Km/h
+Distance: 297.67 cm
+Speed:  26 Km/h
+Distance: 298.50 cm
+Speed:  27 Km/h
+Distance: 299.35 cm
+Speed:  28 Km/h
+Distance: 299.76 cm
+Speed:  29 Km/h
+Distance: 298.51 cm
+Speed:  30 Km/h
+Distance: 304.44 cm
+Speed:  31 Km/h
+Distance: 298.11 cm
+Speed:  32 Km/h
+Distance: 298.48 cm
+Speed:  33 Km/h
+Distance: 298.09 cm
+Speed:  34 Km/h
+Distance: 298.50 cm
+Speed:  35 Km/h
+Distance: 298.06 cm
+Speed:  36 Km/h
+Distance: 298.15 cm
+Speed:  37 Km/h
+Distance: 298.93 cm
+Speed:  38 Km/h
+Distance: 298.06 cm
+Speed:  39 Km/h
+Distance: 298.08 cm
+Speed:  0 Km/h
+Distance: 298.48 cm
+Speed:  1 Km/h
+Distance: 298.50 cm
+Speed:  2 Km/h
+Distance: 298.10 cm
+Speed:  3 Km/h
+Distance: 298.93 cm
+Speed:  4 Km/h
+Distance: 298.52 cm
+Speed:  5 Km/h
+Distance: 298.93 cm
+Speed:  6 Km/h
+Distance: 299.37 cm
+Speed:  7 Km/h
+Distance: 298.93 cm
+Speed:  8 Km/h
+Distance: 298.49 cm
+Speed:  9 Km/h
+Distance: 297.68 cm
+Speed:  10 Km/h
+Distance: 297.65 cm
+Speed:  11 Km/h
+Distance: 297.63 cm
+Speed:  12 Km/h
+Distance: 297.67 cm
+Speed:  13 Km/h
+Distance: 297.66 cm
+Speed:  14 Km/h
+Distance: 297.69 cm
+Speed:  15 Km/h
+Distance: 298.08 cm
+Speed:  16 Km/h
+Distance: 297.67 cm
+Speed:  17 Km/h
+Distance: 298.50 cm
+Speed:  18 Km/h
+Distance: 298.92 cm
+Speed:  19 Km/h
+Distance: 298.11 cm
+Speed:  20 Km/h
+Distance: 297.69 cm
+Speed:  21 Km/h
+Distance: 298.52 cm
+Speed:  22 Km/h
+Distance: 298.52 cm
+Speed:  23 Km/h
+Distance: 298.11 cm
+Speed:  24 Km/h
+Distance: 298.52 cm
+Speed:  25 Km/h
+Distance: 297.66 cm
+Speed:  26 Km/h
+Distance: 298.93 cm
+Speed:  27 Km/h
+Distance: 297.67 cm
+Speed:  28 Km/h
+Distance: 297.68 cm
+Speed:  29 Km/h
+Distance: 298.97 cm
+Speed:  30 Km/h
+Distance: 298.10 cm
+Speed:  31 Km/h
+Distance: 297.68 cm
+Speed:  32 Km/h
+Distance: 298.52 cm
+Speed:  33 Km/h
+Distance: 297.60 cm
+Speed:  34 Km/h
+Distance: 297.69 cm
+Speed:  35 Km/h
+Distance: 298.53 cm
+Speed:  36 Km/h
+Distance: 300.24 cm
+Speed:  37 Km/h
+Distance: 301.91 cm
+Speed:  38 Km/h
+Distance: 297.66 cm
+Speed:  39 Km/h
+Distance: 299.39 cm
+Speed:  0 Km/h
+Distance: 299.00 cm
+Speed:  1 Km/h
+Distance: 297.76 cm
+Speed:  2 Km/h
+Distance: 297.76 cm
+Speed:  3 Km/h
+Distance: 297.72 cm
+Speed:  4 Km/h
+Distance: 298.57 cm
+Speed:  5 Km/h
+Distance: 298.15 cm
+Speed:  6 Km/h
+Distance: 297.70 cm
+Speed:  7 Km/h
+Distance: 298.57 cm
+Speed:  8 Km/h
+Distance: 297.71 cm
+Speed:  9 Km/h
+Distance: 297.72 cm
+Speed:  10 Km/h
+Distance: 299.00 cm
+Speed:  11 Km/h
+Distance: 299.03 cm
+Speed:  12 Km/h
+Distance: 297.74 cm
+Speed:  13 Km/h
+Distance: 298.57 cm
+Speed:  14 Km/h
+Distance: 298.98 cm
+Speed:  15 Km/h
+Distance: 299.85 cm
+Speed:  16 Km/h
+Distance: 299.84 cm
+Speed:  17 Km/h
+Distance: 299.02 cm
+Speed:  18 Km/h
+Distance: 298.97 cm
+Speed:  19 Km/h
+Distance: 298.16 cm
+Speed:  20 Km/h
+Distance: 297.75 cm
+Speed:  21 Km/h
+Distance: 298.10 cm
+Speed:  22 Km/h
+Distance: 298.10 cm
+Speed:  23 Km/h
+Distance: 297.69 cm
+Speed:  24 Km/h
+Distance: 306.20 cm
+Speed:  25 Km/h
+Distance: 297.75 cm
+Speed:  26 Km/h
+Distance: 299.00 cm
+Speed:  27 Km/h
+Distance: 298.17 cm
+Speed:  28 Km/h
+Distance: 297.74 cm
+Speed:  29 Km/h
+Distance: 298.57 cm
+Speed:  30 Km/h
+Distance: 301.98 cm
+Speed:  31 Km/h
+Distance: 299.44 cm
+Speed:  32 Km/h
+Distance: 299.85 cm
+Speed:  33 Km/h
+Distance: 298.57 cm
+Speed:  34 Km/h
+Distance: 297.74 cm
+Speed:  35 Km/h
+Distance: 298.58 cm
+Speed:  36 Km/h
+Distance: 299.43 cm
+Speed:  37 Km/h
+Distance: 301.95 cm
+Speed:  38 Km/h
+Distance: 298.99 cm
+Speed:  39 Km/h
+Distance: 299.51 cm
+Speed:  0 Km/h
+Distance: 298.27 cm
+Speed:  1 Km/h
+Distance: 300.80 cm
+Speed:  2 Km/h
+Distance: 299.11 cm
+Speed:  3 Km/h
+Distance: 300.36 cm
+Speed:  4 Km/h
+Distance: 299.08 cm
+Speed:  5 Km/h
+Distance: 299.07 cm
+Speed:  6 Km/h
+Distance: 299.07 cm
+Speed:  7 Km/h
+Distance: 298.65 cm
+Speed:  8 Km/h
+Distance: 299.06 cm
+Speed:  9 Km/h
+Distance: 298.22 cm
+Speed:  10 Km/h
+Distance: 298.64 cm
+Speed:  11 Km/h
+Distance: 298.24 cm
+Speed:  12 Km/h
+Distance: 299.59 cm
+Speed:  13 Km/h
+Distance: 299.07 cm
+Speed:  14 Km/h
+Distance: 299.09 cm
+Speed:  15 Km/h
+Distance: 298.75 cm
+Speed:  16 Km/h
+Distance: 298.21 cm
+Speed:  17 Km/h
+Distance: 299.06 cm
+Speed:  18 Km/h
+Distance: 299.09 cm
+Speed:  19 Km/h
+Distance: 298.23 cm
+Speed:  20 Km/h
+Distance: 300.02 cm
+Speed:  21 Km/h
+Distance: 301.21 cm
+Speed:  22 Km/h
+Distance: 301.28 cm
+Speed:  23 Km/h
+Distance: 299.10 cm
+Speed:  24 Km/h
+Distance: 298.76 cm
+Speed:  25 Km/h
+Distance: 302.92 cm
+Speed:  26 Km/h
+Distance: 300.36 cm
+Speed:  27 Km/h
+Distance: 303.34 cm
+Speed:  28 Km/h
+Distance: 299.52 cm
+Speed:  29 Km/h
+Distance: 299.10 cm
+Speed:  30 Km/h
+Distance: 298.27 cm
+Speed:  31 Km/h
+Distance: 299.09 cm
+Speed:  32 Km/h
+Distance: 299.51 cm
+Speed:  33 Km/h
+Distance: 300.80 cm
+Speed:  34 Km/h
+Distance: 299.52 cm
+Speed:  35 Km/h
+Distance: 298.22 cm
+Speed:  36 Km/h
+Distance: 299.07 cm
+Speed:  37 Km/h
+Distance: 298.24 cm
+Speed:  38 Km/h
+Distance: 298.25 cm
+Speed:  39 Km/h
+Distance: 1000.77 cm
+Speed: 0 Km/h
+Distance: 1000.73 cm
+Speed: 1 Km/h
+Distance: 1000.78 cm
+Speed: 2 Km/h
+Distance: 1000.80 cm
+Speed: 3 Km/h
+Distance: 1000.82 cm
+Speed: 4 Km/h
+Distance: 1000.85 cm
+Speed: 5 Km/h
+Distance: 1000.83 cm
+Speed: 6 Km/h
+Distance: 1000.86 cm
+Speed: 7 Km/h
+Distance: 1000.84 cm
+Speed: 8 Km/h
+Distance: 1000.87 cm
+Speed: 9 Km/h
+Distance: 1000.87 cm
+Speed: 10 Km/h
+Distance: 1000.90 cm
+Speed: 11 Km/h
+Distance: 1000.88 cm
+Speed: 12 Km/h
+Distance: 1000.86 cm
+Speed: 13 Km/h
+Distance: 1000.90 cm
+Speed: 14 Km/h
+Distance: 1000.96 cm
+Speed: 15 Km/h
+Distance: 1000.93 cm
+Speed: 16 Km/h
+Distance: 1000.94 cm
+Speed: 17 Km/h
+Distance: 1000.90 cm
+Speed: 18 Km/h
+Distance: 1000.94 cm
+Speed: 19 Km/h
+Distance: 1000.95 cm
+Speed: 20 Km/h
+Distance: 1000.96 cm
+Speed: 21 Km/h
+Distance: 1000.99 cm
+Speed: 22 Km/h
+Distance: 1000.97 cm
+Speed: 23 Km/h
+Distance: 1001.05 cm
+Speed: 24 Km/h
+Distance: 1001.01 cm
+Speed: 25 Km/h
+Distance: 1000.99 cm
+Speed: 26 Km/h
+Distance: 1001.04 cm
+Speed: 27 Km/h
+Distance: 1000.97 cm
+Speed: 28 Km/h
+Distance: 1000.96 cm
+Speed: 29 Km/h
+Distance: 1000.96 cm
+Speed: 30 Km/h
+Distance: 1001.01 cm
+Speed: 31 Km/h
+Distance: 1000.99 cm
+Speed: 32 Km/h
+Distance: 614.87 cm
+Speed: 33 Km/h
+Distance: 1000.98 cm
+Speed: 34 Km/h
+Distance: 1000.97 cm
+Speed: 35 Km/h
+Distance: 1000.99 cm
+Speed: 36 Km/h
+Distance: 1001.01 cm
+Speed: 37 Km/h
+Distance: 1001.01 cm
+Speed: 38 Km/h
+Distance: 1000.98 cm
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 40 Km/h
+Distance: 10.01 m
+Speed: 41 Km/h
+Distance: 10.01 m
+Speed: 42 Km/h
+Distance: 10.01 m
+Speed: 43 Km/h
+Distance: 10.01 m
+Speed: 44 Km/h
+Distance: 10.01 m
+Speed: 45 Km/h
+Distance: 10.01 m
+Speed: 46 Km/h
+Distance: 9.44 m
+Speed: 47 Km/h
+Distance: 5.91 m
+Speed: 48 Km/h
+Distance: 10.01 m
+Speed: 49 Km/h
+Distance: 8.81 m
+Speed: 50 Km/h
+Distance: 5.73 m
+Speed: 51 Km/h
+Distance: 10.01 m
+Speed: 52 Km/h
+Distance: 8.32 m
+Speed: 53 Km/h
+Distance: 6.39 m
+Speed: 54 Km/h
+Distance: 5.70 m
+Speed: 55 Km/h
+Distance: 6.06 m
+Speed: 56 Km/h
+Distance: 10.01 m
+Speed: 57 Km/h
+Distance: 6.95 m
+Speed: 58 Km/h
+Distance: 10.01 m
+Speed: 59 Km/h
+Distance: 10.01 m
+Speed: 60 Km/h
+Distance: 10.01 m
+Speed: 61 Km/h
+Distance: 10.01 m
+Speed: 62 Km/h
+Distance: 10.01 m
+Speed: 63 Km/h
+Distance: 10.01 m
+Speed: 64 Km/h
+Distance: 10.01 m
+Speed: 65 Km/h
+Distance: 10.01 m
+Speed: 66 Km/h
+Distance: 2.42 m
+Speed: 67 Km/h
+Distance: 10.01 m
+Speed: 68 Km/h
+Distance: 10.01 m
+Speed: 69 Km/h
+Distance: 10.01 m
+Speed: 70 Km/h
+Distance: 10.01 m
+Speed: 71 Km/h
+Distance: 10.01 m
+Speed: 72 Km/h
+Distance: 10.01 m
+Speed: 73 Km/h
+Distance: 10.01 m
+Speed: 74 Km/h
+Distance: 10.01 m
+Speed: 75 Km/h
+Distance: 10.01 m
+Speed: 76 Km/h
+Distance: 10.01 m
+Speed: 77 Km/h
+Distance: 10.01 m
+Speed: 78 Km/h
+Distance: 10.01 m
+Speed: 79 Km/h
+Distance: 10.01 m
+Speed: 80 Km/h
+Distance: 10.01 m
+Speed: 81 Km/h
+Distance: 10.01 m
+Speed: 82 Km/h
+Distance: 10.01 m
+Speed: 83 Km/h
+Distance: 10.01 m
+Speed: 84 Km/h
+Distance: 10.01 m
+Speed: 85 Km/h
+Distance: 10.01 m
+Speed: 86 Km/h
+Distance: 10.01 m
+Speed: 87 Km/h
+Distance: 10.01 m
+Speed: 88 Km/h
+Distance: 10.01 m
+Speed: 89 Km/h
+Distance: 10.01 m
+Speed: 90 Km/h
+Distance: 10.01 m
+Speed: 91 Km/h
+Distance: 10.01 m
+Speed: 92 Km/h
+Distance: 10.01 m
+Speed: 93 Km/h
+Distance: 10.01 m
+Speed: 94 Km/h
+Distance: 10.01 m
+Speed: 95 Km/h
+Distance: 10.01 m
+Speed: 96 Km/h
+Distance: 10.01 m
+Speed: 97 Km/h
+Distance: 10.01 m
+Speed: 98 Km/h
+Distance: 10.01 m
+Speed: 99 Km/h
+Distance: 10.01 m
+Speed: 100 Km/h
+Distance: 5.08 m
+Speed: 101 Km/h
+Distance: 0.95 m
+Speed: 102 Km/h
+Distance: 1.28 m
+Speed: 103 Km/h
+Distance: 5.42 m
+Speed: 104 Km/h
+Distance: 5.42 m
+Speed: 105 Km/h
+Distance: 10.01 m
+Speed: 106 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 0.10 m
+Speed: 32 Km/h
+Distance: 0.10 m
+Speed: 33 Km/h
+Distance: 0.10 m
+Speed: 34 Km/h
+Distance: 0.10 m
+Speed: 35 Km/h
+Distance: 0.10 m
+Speed: 36 Km/h
+Distance: 0.10 m
+Speed: 37 Km/h
+Distance: 0.10 m
+Speed: 38 Km/h
+Distance: 0.12 m
+Speed: 39 Km/h
+Distance: 0.10 m
+Speed: 40 Km/h
+Distance: 0.10 m
+Speed: 41 Km/h
+Distance: 0.10 m
+Speed: 42 Km/h
+Distance: 0.10 m
+Speed: 43 Km/h
+Distance: 0.10 m
+Speed: 44 Km/h
+Distance: 0.10 m
+Speed: 45 Km/h
+Distance: 0.10 m
+Speed: 46 Km/h
+Distance: 0.10 m
+Speed: 47 Km/h
+Distance: 0.10 m
+Speed: 48 Km/h
+Distance: 0.10 m
+Speed: 49 Km/h
+Distance: 0.10 m
+Speed: 50 Km/h
+Distance: 0.10 m
+Speed: 51 Km/h
+Distance: 0.10 m
+Speed: 52 Km/h
+Distance: 0.10 m
+Speed: 53 Km/h
+Distance: 0.10 m
+Speed: 54 Km/h
+Distance: 0.10 m
+Speed: 55 Km/h
+Distance: 0.10 m
+Speed: 56 Km/h
+Distance: 0.10 m
+Speed: 57 Km/h
+Distance: 0.10 m
+Speed: 58 Km/h
+Distance: 0.11 m
+Speed: 59 Km/h
+Distance: 0.10 m
+Speed: 60 Km/h
+Distance: 0.10 m
+Speed: 61 Km/h
+Distance: 0.09 m
+Speed: 62 Km/h
+Distance: 0.10 m
+Speed: 63 Km/h
+Distance: 0.10 m
+Speed: 64 Km/h
+Distance: 0.10 m
+Speed: 65 Km/h
+Distance: 0.09 m
+Speed: 66 Km/h
+Distance: 0.09 m
+Speed: 67 Km/h
+Distance: 0.09 m
+Speed: 68 Km/h
+Distance: 0.09 m
+Speed: 69 Km/h
+Distance: 0.09 m
+Speed: 70 Km/h
+Distance: 0.09 m
+Speed: 71 Km/h
+Distance: 0.09 m
+Speed: 72 Km/h
+Distance: 0.10 m
+Speed: 73 Km/h
+Distance: 0.09 m
+Speed: 74 Km/h
+Distance: 0.10 m
+Speed: 75 Km/h
+Distance: 10.01 m
+Speed: 76 Km/h
+Distance: 0.13 m
+Speed: 77 Km/h
+Distance: 0.11 m
+Speed: 78 Km/h
+Distance: 10.01 m
+Speed: 79 Km/h
+Distance: 10.01 m
+Speed: 80 Km/h
+Distance: 0.10 m
+Speed: 81 Km/h
+Distance: 0.10 m
+Speed: 82 Km/h
+Distance: 0.11 m
+Speed: 83 Km/h
+Distance: 0.10 m
+Speed: 84 Km/h
+Distance: 10.01 m
+Speed: 85 Km/h
+Distance: 10.01 m
+Speed: 86 Km/h
+Distance: 10.01 m
+Speed: 87 Km/h
+Distance: 0.12 m
+Speed: 88 Km/h
+Distance: 0.11 m
+Speed: 89 Km/h
+Distance: 0.11 m
+Speed: 90 Km/h
+Distance: 0.11 m
+Speed: 91 Km/h
+Distance: 0.10 m
+Speed: 92 Km/h
+Distance: 0.10 m
+Speed: 93 Km/h
+Distance: 0.11 m
+Speed: 94 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 4.82 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 40 Km/h
+Distance: 0.04 m
+Speed: 30 Km/h
+Distance: 0.04 m
+Speed: 31 Km/h
+Distance: 0.04 m
+Speed: 32 Km/h
+Distance: 0.04 m
+Speed: 33 Km/h
+Distance: 0.04 m
+Speed: 34 Km/h
+Distance: 0.04 m
+Speed: 35 Km/h
+Distance: 0.04 m
+Speed: 36 Km/h
+Distance: 0.04 m
+Speed: 37 Km/h
+Distance: 0.04 m
+Speed: 38 Km/h
+Distance: 0.04 m
+Speed: 39 Km/h
+Distance: 0.04 m
+Speed: 40 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 40 Km/h
+Distance: 0.06 m
+Speed: 30 Km/h
+Distance: 0.06 m
+Speed: 31 Km/h
+Distance: 0.06 m
+Speed: 32 Km/h
+Distance: 0.06 m
+Speed: 33 Km/h
+Distance: 0.06 m
+Speed: 34 Km/h
+Distance: 0.06 m
+Speed: 35 Km/h
+Distance: 0.06 m
+Speed: 36 Km/h
+Distance: 0.06 m
+Speed: 37 Km/h
+Distance: 0.06 m
+Speed: 38 Km/h
+Distance: 0.06 m
+Speed: 39 Km/h
+Distance: 0.06 m
+Speed: 40 Km/h
+Distance: 0.09 m
+Speed: 30 Km/h
+Distance: 0.09 m
+Speed: 31 Km/h
+Distance: 0.09 m
+Speed: 32 Km/h
+Distance: 0.09 m
+Speed: 33 Km/h
+Distance: 0.09 m
+Speed: 34 Km/h
+Distance: 0.09 m
+Speed: 35 Km/h
+Distance: 0.09 m
+Speed: 36 Km/h
+Distance: 0.09 m
+Speed: 37 Km/h
+Distance: 0.09 m
+Speed: 38 Km/h
+Distance: 0.09 m
+Speed: 39 Km/h
+Distance: 0.09 m
+Speed: 40 Km/h
+Distance: 0.09 m
+Speed: 30 Km/h
+Distance: 0.09 m
+Speed: 31 Km/h
+Distance: 0.09 m
+Speed: 32 Km/h
+Distance: 0.09 m
+Speed: 33 Km/h
+Distance: 0.09 m
+Speed: 34 Km/h
+Distance: 0.09 m
+Speed: 35 Km/h
+Distance: 0.09 m
+Speed: 36 Km/h
+Distance: 0.09 m
+Speed: 37 Km/h
+Distance: 0.09 m
+Speed: 38 Km/h
+Distance: 0.09 m
+Speed: 39 Km/h
+Distance: 0.09 m
+Speed: 40 Km/h
+Distance: 0.37 m
+Speed: 30 Km/h
+Distance: 0.37 m
+Speed: 31 Km/h
+Distance: 0.37 m
+Speed: 32 Km/h
+Distance: 0.37 m
+Speed: 33 Km/h
+Distance: 0.37 m
+Speed: 34 Km/h
+Distance: 0.37 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 0.37 m
+Speed: 37 Km/h
+Distance: 0.37 m
+Speed: 38 Km/h
+Distance: 0.37 m
+Speed: 39 Km/h
+Distance: 0.37 m
+Speed: 40 Km/h
+Distance: 1.47 m
+Speed: 30 Km/h
+Distance: 1.30 m
+Speed: 31 Km/h
+Distance: 5.40 m
+Speed: 32 Km/h
+Distance: 1.59 m
+Speed: 33 Km/h
+Distance: 3.84 m
+Speed: 34 Km/h
+Distance: 1.94 m
+Speed: 35 Km/h
+Distance: 0.88 m
+Speed: 36 Km/h
+Distance: 5.77 m
+Speed: 37 Km/h
+Distance: 2.80 m
+Speed: 38 Km/h
+Distance: 1.63 m
+Speed: 39 Km/h
+Distance: 3.15 m
+Speed: 40 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 40 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 9.98 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 40 Km/h
+Distance: 10.01 m
+Speed: 30 Km/h
+Distance: 10.01 m
+Speed: 31 Km/h
+Distance: 10.01 m
+Speed: 32 Km/h
+Distance: 10.01 m
+Speed: 33 Km/h
+Distance: 10.01 m
+Speed: 34 Km/h
+Distance: 10.01 m
+Speed: 35 Km/h
+Distance: 10.01 m
+Speed: 36 Km/h
+Distance: 10.01 m
+Speed: 37 Km/h
+Distance: 10.01 m
+Speed: 38 Km/h
+Distance: 10.01 m
+Speed: 39 Km/h
+Distance: 10.01 m
+Speed: 40 Km/h
+Distance: 1.16 m
+Speed: 60 Km/h
+Distance: 1.00 m
+Speed: 59 Km/h
+Distance: 1.16 m
+Speed: 58 Km/h
+Distance: 1.01 m
+Speed: 57 Km/h
+Distance: 1.01 m
+Speed: 56 Km/h
+Distance: 1.02 m
+Speed: 55 Km/h
+Distance: 1.00 m
+Speed: 54 Km/h
+Distance: 1.02 m
+Speed: 53 Km/h
+Distance: 1.02 m
+Speed: 52 Km/h
+Distance: 1.01 m
+Speed: 51 Km/h
+Distance: 1.00 m
+Speed: 50 Km/h
+Distance: 1.01 m
+Speed: 60 Km/h
+Distance: 1.00 m
+Speed: 59 Km/h
+Distance: 1.02 m
+Speed: 58 Km/h
+Distance: 1.01 m
+Speed: 57 Km/h
+Distance: 1.05 m
+Speed: 56 Km/h
+Distance: 1.00 m
+Speed: 55 Km/h
+Distance: 1.02 m
+Speed: 54 Km/h
+Distance: 1.02 m
+Speed: 53 Km/h
+Distance: 1.00 m
+Speed: 52 Km/h
+Distance: 1.01 m
+Speed: 51 Km/h
+Distance: 1.02 m
+Speed: 50 Km/h
+Distance: 0.36 m
+Speed: 60 Km/h
+Distance: 0.36 m
+Speed: 59 Km/h
+Distance: 0.36 m
+Speed: 58 Km/h
+Distance: 0.36 m
+Speed: 57 Km/h
+Distance: 0.36 m
+Speed: 56 Km/h
+Distance: 0.36 m
+Speed: 55 Km/h
+Distance: 0.36 m
+Speed: 54 Km/h
+Distance: 0.36 m
+Speed: 53 Km/h
+Distance: 0.36 m
+Speed: 52 Km/h
+Distance: 0.36 m
+Speed: 51 Km/h
+Distance: 0.36 m
+Speed: 50 Km/h

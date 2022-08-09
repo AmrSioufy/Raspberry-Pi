@@ -1,0 +1,35 @@
+#!/usr/bin/python3
+
+import RPi.GPIO as GPIO
+import time
+
+#Definitions
+try:
+    GPIO.setmode(GPIO.BOARD)
+    pinTrigger = 7
+    pinEcho = 11
+    GPIO.setup(pinTrigger, GPIO.OUT)
+    GPIO.setup(pinEcho, GPIO.IN)
+ 
+    GPIO.output(pinTrigger, GPIO.LOW)
+    GPIO.output(pinTrigger, GPIO.HIGH)
+ 
+    time.sleep(0.00001)
+    GPIO.output(pinTrigger, GPIO.LOW)
+
+
+
+#Code
+    while True:
+	    while GPIO.input(pinEcho)==0:
+       	 pulseStartTime = time.time()
+    while GPIO.input(pinEcho)==1:
+        pulseEndTime = time.time()
+ 
+    pulseDuration = pulseEndTime - pulseStartTime
+    distance = round(pulseDuration * 17150, 2)
+    print("Distance: %.2f cm" % (distance))
+    if i==1:
+    	break
+finally:
+    GPIO.cleanup()
